@@ -1,0 +1,1 @@
+curl -X POST -F 'image=@/Users/urijglusenkov/Downloads/21.jpg' http://arxemond.ru/server_for_android/receive_an_img.php
